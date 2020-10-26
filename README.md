@@ -95,3 +95,5 @@ Parameter：Symbol(Transaction symbol).type(0:all 1:single)
 
 Return value：Symbol(Transaction symbol).SwapLong(Inventory cost of sales order adjustment).SwapShort(Purchase order and adjust inventory fee)
 
+
+The API described in this document provides various interfaces for MT4 trading, quotation and management,With our products,It can meet the needs of individual developers to write software for programming investment,You can also make customized development according to your business needs,Can also source code sales, welcome to discuss cooperation.
